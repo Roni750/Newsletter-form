@@ -1,0 +1,26 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    background: #36384d;
+}
+
+.card {
+    display: flex;
+    background: #fff;
+    height: 642px;
+    width: 930px;
+
+    .btn-subscribe {
+        background: #242742;
+        color: whitesmoke;
+    }
+
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
